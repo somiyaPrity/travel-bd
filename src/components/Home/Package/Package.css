@@ -1,0 +1,27 @@
+.card-service {
+  border-radius: 8px;
+  padding: 4px;
+  box-shadow: rgba(53, 52, 52, 0.569) 0px 0px 10px;
+}
+.card-title {
+  color: #156e36;
+}
+.card-text {
+  text-transform: capitalize;
+  color: grey;
+}
+.rating-color {
+  color: gold;
+}
+.service-button {
+  margin-top: 8px;
+  color: #fff;
+  background-color: #ff6347;
+  padding: 2px 10px;
+  border-color: transparent;
+}
+.service-img {
+  border-radius: 8px;
+  height: 200px;
+  /* width: 200px; */
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "key": 0,
+    "place": "Cox's Bazar",
+    "duration": "two night tree days",
+    "rating": 4.5,
+    "price": 7000,
+    "img": "https://cf.bstatic.com/xdata/images/city/375x225/666843.jpg?k=4744586c4a79c997023e878de81730e457af8a28a1178d29f92f7677e658f95a&o="
+  },
+  {
+    "key": 1,
+    "place": "Rangamati",
+    "duration": "three night tree days",
+    "rating": 4,
+    "price": 5000,
+    "img": "https://i.ytimg.com/vi/0h0Vv5I447o/hqdefault.jpg"
+  },
+  {
+    "key": 2,
+    "place": "Kuakata",
+    "duration": "three night tree days",
+    "rating": 4,
+    "price": 5000,
+    "img": "https://images.prothomalo.com/prothomalo-english%2F2020-05%2F56bc4692-da10-440e-bc9e-502f8dea1df4%2Fkuakata.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=&overlay_position=bottom&overlay_width_pct=1"
+  },
+  {
+    "key": 3,
+    "place": "Bandarban",
+    "duration": "two night tree days",
+    "rating": 3,
+    "price": 5000,
+    "img": "https://lh3.googleusercontent.com/proxy/cXflNoeo_MZuJpbI40QTTS4ZxRPbALDPpO0J-dWwB_c8CR4fIRdazgh29Ok9r9ocDBoQgU40I3KzjW20dUQbtMIdVKd8iacdPNVEDnLY0g"
+  },
+  {
+    "key": 4,
+    "place": "Sylhet",
+    "duration": "two night tree days",
+    "rating": 3.5,
+    "price": 4000,
+    "img": "http://unb.com.bd/filemanager/photos/64/Bisnakandi%20Sylhet%20Bangladesh.jpg"
+  },
+  {
+    "key": 5,
+    "place": "Saint Martins Island",
+    "duration": "two night tree days",
+    "rating": 4.8,
+    "price": 6000,
+    "img": "https://i.ytimg.com/vi/mPkxwsXih2g/maxresdefault.jpg"
+  }
+]

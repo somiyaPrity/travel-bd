@@ -1,0 +1,29 @@
+.counterColumn {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px 0 20px 0;
+}
+.counter-content {
+  padding: 20px;
+  box-shadow: 0 0 gray;
+}
+.counter-content p {
+  color: #fff;
+  background-color: #ffd205;
+  padding: 8px;
+}
+.counter-content span {
+  color: #156e36;
+  font-size: 40px;
+}
+.tour-pack {
+  background-color: #1bbc9b !important;
+}
+.cruises {
+  background-color: #14b9d5 !important;
+}
+.support {
+  background-color: #f76570 !important;
+}
